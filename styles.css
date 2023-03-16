@@ -1,0 +1,41 @@
+
+body{
+    text-align: left;
+}
+
+h1{
+    color: rgb(171, 159, 223);
+    font-style: italic;
+}
+h2{
+    color: rgb(8, 244, 8);
+    font-style: italic;
+}
+h5{
+    color: yellow;
+    letter-spacing: 0.15rem;
+    font-style: italic;
+    text-align: center;
+}
+body{
+    background-color: black;
+
+}
+h4{
+    color: pink;
+    font-style: italic;
+    font-size: medium;
+}
+p{
+    color:orangered;
+}
+
+a:link {
+  color: blue;
+  background-color: transparent;
+  box-sizing: border-box;
+  letter-spacing: 0.15rem;
+  font-size: x-large;
+  
+
+}
